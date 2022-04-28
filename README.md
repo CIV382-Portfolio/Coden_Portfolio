@@ -60,12 +60,9 @@ Skills Learned: GeoPandas, GIS, shapefiles, search algorithms, matrix/
 
 I independantly coded from scratch a Python program to calculate reactions, shear and moments across all parts of a doubly spanned reinforced concrete bridge. The motivation was a course project where we had to design all components of the bridge, meeting servicability and ultimate safety limit states.  The program provided instantanous results/feedback, and prevented the meticulous hand backcalculations when concrete members had to be adjusted. Programming hurdles included the calculations of integrations of various shapes and the organization of long complex structural procedures into readable and organized code functions.
 
+The program had the following stepwise structure. 
+1. Classes for all common shapes in moment diagrams were created. This included functions for quick multiplication between shapes and visualizations.
+2. Classes and corresponding objects for reactions. This included objects for live loads, dead loads, and abutment reactions. Primary information stored were moment and shear diagrams for each member.
+3. The final state of the bridge was resolved. This meant simulating superposition and the force method, to figure out which values of abutment reactions corresponded to a state of equilibrium when bridge was in given state. 
 
-
-![Visualization of road sections in Database 1](images/ex1_HERE.png) ![Visualization of road sections in Database 2](images/ex1_aimsun.png) ![Visualization of road sections in Database 2](images/ex1_match_background.png) 
-
-
-Achieved an accuracy of 94% on normal road types. Accuracy is dynamic since adjustable thresholds can tradeoff quantity with quality. It was succesfully used to match sections from an Aimsun traffic simulation covering the GTHA, with HERE Technologies' observed traffic information.
-\
-\
-Skills Learned: GeoPandas, GIS, shapefiles, search algorithms, matrix/array time dependancies
+The program was succesfully used not only to instantaneously calculate all desired values, but also visualize them graphically for quick interpretation. 
