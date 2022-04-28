@@ -65,7 +65,7 @@ The program had the following stepwise structure.
 2. Classes and corresponding objects for reactions. This included objects for live loads, dead loads, and abutment reactions. Primary information stored were moment and shear diagrams for each member.
 3. The final state of the bridge was resolved. This meant simulating superposition and the force method, to figure out which values of abutment reactions corresponded to a state of equilibrium when bridge was in given state. 
 
-![Image of bagging and model architecture](images/Beam Combos Capacity.png)
+![](images/Beam Combos Capacity.png)
 Example of calculated moment envelope for bridge's beam.
 
 The program was succesfully used not only to instantaneously calculate all desired values, but also visualize them graphically for quick interpretation. 
