@@ -40,7 +40,7 @@ Skills Learned: pytorch, autograd, optimization, bagging, ensemble
 # Project 3: Matching Road Sections between Databases
 [Article Link](https://github.com/Ceudan/Match-Roads-Between-Databases)
 
-I independently created software to match sections across databases using geospatial information. This was one of the many tasks I recieved at the University of Toronto Transportation Research Institute. Hurdles included:
+I independently created software to match sections across databases using geospatial information. It was designed to allow my supervisor to quickly match traffic information from third party sources to his Aimsun traffic model. This was one of the many tasks I recieved at the University of Toronto Transportation Research Institute. Hurdles included:
 - over 100,000 road sections per database (strong time complexity requirements)
 - close proximity does not gaurentee correct match
 - geographic coordinates carry up to 10 metres of uncertainty
