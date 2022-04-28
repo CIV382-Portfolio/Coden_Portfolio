@@ -56,7 +56,7 @@ Achieved an accuracy of 94% on normal road types. Accuracy is dynamic since adju
 Skills Learned: GeoPandas, GIS, shapefiles, search algorithms, matrix/array time dependancies
 
 
-# Project 4: Force Method Calculator
+# Project 4: Calculating Internal Forces of Reinforced Concrete Bridge
 
 I independantly coded from scratch a Python program to calculate reactions, shear and moments across all parts of a doubly spanned reinforced concrete bridge. The motivation was a course project where we had to design all components of the bridge, meeting servicability and ultimate safety limit states.  The program provided instantanous results/feedback, and prevented the meticulous hand backcalculations when concrete members had to be adjusted. Programming hurdles included the calculations of integrations of various shapes and the organization of long complex structural procedures into readable and organized code functions.
 
