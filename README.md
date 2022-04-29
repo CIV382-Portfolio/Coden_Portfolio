@@ -1,6 +1,8 @@
 &nbsp;
 
 # Global Introduction
+![Photo of Myself (Same as University T-Card Photo)](images/photo.jpg)
+
 Hello! 
 
 My name is Ray Coden Mercurius. I am a prospective graduate of May 2023, from the department of Civil Engineering at the University of Toronto. During my undergraduate studies, I've developped a love for computer science and data science in particular. I hope to one day be able to merge these 2 fields. To achieve my goal, I have tried my best to acquire relevant skills through research, and academic studies, and extracurriculars. I have worked as a research assitant at UTTRI, preprocessing/pipelining raw traffic data for calibration purposes, as well as independantly designing software architectures to aid my supervisor in the calibration of Aimsun traffic models. This summer I will be internerning as a student researcher in the Data-Driven Decision Making Lab, under supervision of Prof. Scott Sanner, helping PHD students with traffic signal control utilising reinforcement learning. Finally, I've trained and succesfully engaged in competitive programmming, having the chance to be 1 of 9 representatives for the University of Toronto ICPC team at teh 2023 ECNA regionals. During my academic studies, I have taken courses in programming, machine learning, statistics, calculus, linear algebra. I'm fluent in both C/C++ and Python. I am comfortable with data science libraries including Pandas, Numpy and Scikit-Learn. I work great in groups as well as by myself, and I have great visualization and communication skills.
